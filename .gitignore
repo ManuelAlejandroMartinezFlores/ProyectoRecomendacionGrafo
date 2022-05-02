@@ -132,3 +132,7 @@ dmypy.json
 # DSStore
 *.DS_Store
 **.DS_Store
+
+# SQLite
+*.sqlite
+**.sqlite
