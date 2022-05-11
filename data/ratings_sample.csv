@@ -1,4 +1,4 @@
-podcast_id,rating,author_id,liked
+podcast_id,rating,user_id,liked
 d34629baca14d87860276b12a6cb7a3b,1,949410AE9D72DA4,0
 fa3cac03e05c1e9ec792e95e4850d7ce,5,86533A28CA5B4C4,1
 a3a535f66c7e8004e7dc54c2b2829a9e,5,6C561484AED5C02,1
